@@ -2,7 +2,9 @@
 ###### Briefly About Me
 I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://pages.github.com/), and more about me regarding my courses are [here](https://xiaoxi-yiren.github.io/page_project/#my-courses-this-quarter)
 
-My favorite desktop image is ![here](https://media.idownloadblog.com/wp-content/uploads/2014/08/Yosemite-wallpaper-thumbnail.png).
+My favorite desktop image is here. 
+
+![](https://media.idownloadblog.com/wp-content/uploads/2014/08/Yosemite-wallpaper-thumbnail.png)
 
 A [README.MD](README.md) file is in this directory!
 ###### My Courses This Quarter
