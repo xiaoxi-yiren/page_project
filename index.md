@@ -1,6 +1,6 @@
 ## Yiren Zhou's Page
 ###### Briefly About Me
-I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://pages.github.com/), and more about me regarding my courses are [here](https://xiaoxi-yiren.github.io/page_project/#my-courses-this-quarter)
+I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://math.ucsd.edu/), and more about me regarding my courses are [here](https://xiaoxi-yiren.github.io/page_project/#my-courses-this-quarter)
 
 My favorite desktop image is here. 
 
@@ -14,7 +14,8 @@ I am taking several classes this quarter
 - CSE130
 - MATH202
 - CSE142
-- 
+
+
 My favorite class ranked
 1. CSE230
 2. CSE110
