@@ -1,7 +1,7 @@
 ## Yiren Zhou's Page
 ###### Briefly About Me
 I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://pages.github.com/), and more about me is 
-A[README.MD](README.md) file is in this directory!
+A [README.MD](README.md) file is in this directory!
 ###### My Courses This Quarter
 I am taking several classes this quarter
 - CSE110
@@ -17,6 +17,7 @@ My favorite class ranked
 5. MATH202
 
 > Time is money
+
 In order to do well in the classes, my tasks are
 - [x] check syllabus
 - [ ] work on assignment early
