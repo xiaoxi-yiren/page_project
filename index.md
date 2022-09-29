@@ -1,6 +1,10 @@
 ## Yiren Zhou's Page
 ###### Briefly About Me
-I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://pages.github.com/), and more about me is 
+I am a UCSD undergraduate student in **Mathematics-Computer Science** major. This is the link to our [math department](https://pages.github.com/), and more about me regarding my courses are [here](https://xiaoxi-yiren.github.io/page_project/#my-courses-this-quarter)
+My favorite desktop image is here.
+<picture>
+  <source srcset="https://media.idownloadblog.com/wp-content/uploads/2014/08/Yosemite-wallpaper-thumbnail.png">
+</picture>
 A [README.MD](README.md) file is in this directory!
 ###### My Courses This Quarter
 I am taking several classes this quarter
