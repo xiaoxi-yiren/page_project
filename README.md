@@ -1,2 +1,2 @@
 # page_project
-my favorite programming language is python!
+https://xiaoxi-yiren.github.io/page_project/
